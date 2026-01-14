@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LALALA (Baby it takes two)",
+  "base_artist": "平井 大",
+  "createdAt": "2026-01-14T02:15:06.839525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LALALA (Baby it takes two)",
+      "artist": "平井大",
+      "has_synced": false,
+      "path": "select/pl_01_LALALA_(Baby_it_takes_two)_平井大.txt"
+    }
+  ]
+}
